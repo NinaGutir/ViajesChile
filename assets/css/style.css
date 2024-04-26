@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    margin: 0;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.blanco {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link .navbar-brand{
+    color: #fff; /* White color */
+  }
+
+.rectanguloCeleste{
+    background-color: #0DCAF0;
+}
+
+.card{
+    background-color: #0DCAF0;
+}
+html{
+    scroll-behavior: smooth;
+  }
+  
+  footer{
+    background-color: #0DCAF0; 
+    color: white;
+}
+
+
+
+
+
+
