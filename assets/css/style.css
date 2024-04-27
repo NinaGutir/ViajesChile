@@ -8,28 +8,25 @@ body {
 .blanco {
     color: white;
 }
-.navbar-light .navbar-nav .nav-link .navbar-brand{
-    color: #fff; /* White color */
-  }
 
-.rectanguloCeleste{
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+    color: #fff;
+    /* White color */
+}
+
+.rectanguloCeleste {
     background-color: #0DCAF0;
 }
 
-.card{
+.card {
     background-color: #0DCAF0;
 }
-html{
+
+html {
     scroll-behavior: smooth;
-  }
-  
-  footer{
-    background-color: #0DCAF0; 
+}
+
+footer {
+    background-color: #0DCAF0;
     color: white;
 }
-
-
-
-
-
-
