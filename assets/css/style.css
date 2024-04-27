@@ -26,6 +26,11 @@ html {
     scroll-behavior: smooth;
 }
 
+.color {
+
+    background-color: #0DCAF0;
+}
+
 footer {
     background-color: #0DCAF0;
     color: white;
